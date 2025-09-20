@@ -1,0 +1,569 @@
+[
+  {
+    "type": "FACE_DISAPPEARED",
+    "timestamp": "20250920_202714_936652",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": false,
+        "gaze_direction": "left",
+        "eye_ratio": 0.3201910863840405,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Forward",
+        "emotion": "Neutral",
+        "timestamp": "2025-09-20 20:27:14"
+      },
+      "gaze_direction": "left",
+      "head_pose": "Forward",
+      "emotion": "Neutral"
+    }
+  },
+  {
+    "type": "FACE_DISAPPEARED",
+    "timestamp": "20250920_202715_276176",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": false,
+        "gaze_direction": "left",
+        "eye_ratio": 0.22646210411360218,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Forward",
+        "emotion": "Neutral",
+        "timestamp": "2025-09-20 20:27:15"
+      },
+      "gaze_direction": "left",
+      "head_pose": "Forward",
+      "emotion": "Neutral"
+    }
+  },
+  {
+    "type": "FACE_DISAPPEARED",
+    "timestamp": "20250920_202715_532073",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": false,
+        "gaze_direction": "left",
+        "eye_ratio": 0.28101472815048034,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Forward",
+        "emotion": "Neutral",
+        "timestamp": "2025-09-20 20:27:15"
+      },
+      "gaze_direction": "left",
+      "head_pose": "Forward",
+      "emotion": "Neutral"
+    }
+  },
+  {
+    "type": "FACE_DISAPPEARED",
+    "timestamp": "20250920_202715_774358",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": false,
+        "gaze_direction": "left",
+        "eye_ratio": 0.2658300438921327,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Forward",
+        "emotion": "Neutral",
+        "timestamp": "2025-09-20 20:27:15"
+      },
+      "gaze_direction": "left",
+      "head_pose": "Forward",
+      "emotion": "Neutral"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202717_716449",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.2762349053370206,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Down",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:15"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Down",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202718_643903",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.3072160936044068,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:17"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202719_711709",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.28043842789058604,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:18"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202720_623494",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.29274215995922503,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:19"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202721_541554",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.29968064896179347,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:20"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202723_185141",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.27689544900593677,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:21"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202724_095767",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.2584869971170925,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:23"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202724_975289",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.26150032652649435,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:24"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202725_853725",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.26148531992104096,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:24"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202726_741201",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.2606214924467565,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:25"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202727_770654",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.21695093486496658,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:26"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202728_569734",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.22366403601911386,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:27"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202729_345123",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.23313709710323688,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:28"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202730_161369",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.24917486547524914,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:29"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202730_953492",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.2597855487245744,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:30"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202732_010708",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.25641454961121773,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:30"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202732_982745",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.23397331764694812,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:32"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202733_892490",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.24651793003180827,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:33"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202734_760168",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.2525849719720015,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:33"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202735_733078",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.2438525917844551,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:34"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202736_701470",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.235081066929957,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:35"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202737_538604",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.17898798547740075,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:36"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  },
+  {
+    "type": "HEAD_TURNED",
+    "timestamp": "20250920_202738_408140",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": true,
+        "gaze_direction": "Center",
+        "eye_ratio": 0.1585983904380035,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "head_pose": "Looking Up",
+        "emotion": "Unknown",
+        "timestamp": "2025-09-20 20:27:37"
+      },
+      "gaze_direction": "Center",
+      "head_pose": "Looking Up",
+      "emotion": "Unknown"
+    }
+  }
+]

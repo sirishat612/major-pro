@@ -1,0 +1,78 @@
+2025-09-20 17:25:50 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:25:51 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.70
+2025-09-20 17:26:05 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:26:13 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.72
+2025-09-20 17:31:50 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:32:23 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:33:09 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:34:09 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:34:37 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.66
+2025-09-20 17:34:39 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 17:44:39 - VOICE_DETECTED: Voice activity detected
+2025-09-20 18:00:56 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:05:06 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:05:42 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:07:55 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:08:31 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:08:51 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:09:04 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.71
+2025-09-20 18:10:05 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.70
+2025-09-20 18:11:14 - FACE_DISAPPEARED: Face disappeared for more than 5 seconds
+2025-09-20 18:18:57 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:19:10 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:19:25 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:19:59 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:27:22 - MOUTH_MOVEMENT: Excessive mouth movement detected (possible talking)
+2025-09-20 18:27:48 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.82
+2025-09-20 18:27:50 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:34:02 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.75
+2025-09-20 18:34:04 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:34:20 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:38:49 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:39:05 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.67
+2025-09-20 18:41:12 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:41:38 - FACE_DISAPPEARED: Face disappeared for more than 5 seconds
+2025-09-20 18:41:47 - FACE_REAPPEARED: Face reappeared after 8.2 seconds
+2025-09-20 18:41:52 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:42:18 - MOUTH_MOVEMENT: Excessive mouth movement detected (possible talking)
+2025-09-20 18:42:52 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.73
+2025-09-20 18:47:45 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:48:31 - FACE_DISAPPEARED: Face disappeared for more than 5 seconds
+2025-09-20 18:52:57 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:53:11 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:53:49 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:54:03 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.66
+2025-09-20 18:55:26 - FACE_DISAPPEARED: Face disappeared for more than 5 seconds
+2025-09-20 18:55:26 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:55:38 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.79
+2025-09-20 18:56:02 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:57:27 - FACE_DISAPPEARED: Face disappeared for more than 5 seconds
+2025-09-20 18:57:28 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:57:32 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.89
+2025-09-20 18:57:51 - VOICE_DETECTED: Voice activity detected
+2025-09-20 18:58:04 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:58:21 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:58:24 - VOICE_DETECTED: Voice activity detected
+2025-09-20 18:58:26 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.65
+2025-09-20 18:58:37 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.75
+2025-09-20 18:58:47 - VOICE_DETECTED: Voice activity detected
+2025-09-20 18:58:51 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 18:58:56 - FORBIDDEN_OBJECT: Detected cell phone with confidence 0.75
+2025-09-20 19:07:09 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:07:19 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:07:38 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 19:07:50 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 19:07:52 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:08:02 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:11:19 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:11:34 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:11:43 - MULTIPLE_FACES: Detected 2 faces for 5 frames
+2025-09-20 19:11:45 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:11:57 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 19:11:58 - VOICE_DETECTED: Voice activity detected
+2025-09-20 19:12:01 - MOUTH_MOVEMENT: Excessive mouth movement detected (possible talking)
+2025-09-20 19:52:49 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 19:53:14 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 19:54:50 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 19:55:09 - EYE_MOVEMENT: Excessive eye movement detected
+2025-09-20 20:17:23 - EYE_MOVEMENT: Excessive eye movement detected
